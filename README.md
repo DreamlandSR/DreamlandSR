@@ -5,12 +5,14 @@
 ---
 
 ## 🚀 About Project
-DreamlandSR adalah aplikasi yang dibuat untuk ________.
+DreamlandSR adalah dibuat untuk membuat deskripsi terkait diri sendiri.
+[Portofolio](https://drive.google.com/drive/u/0/folders/1Qx-mkwrB1MZpfs4V4Uxjb3VJmPCXdQLn)
 
 ---
 
 ## 🛠 Tech Stack
 ![My Skills](https://skillicons.dev/icons?i=laravel,php,js,docker,mysql)
+
 
 ---
 
