@@ -29,15 +29,3 @@ Backend : Laravel
 Frontend : JavaScript
 Database : MySQL
 Containerization : Docker
-
-
----
-
-## 📦 Installation
-
-```bash
-git clone https://github.com/DreamlandSR/DreamlandSR.git
-cd DreamlandSR
-composer install
-npm install
-npm run dev
