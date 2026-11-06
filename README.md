@@ -18,7 +18,6 @@ Jember, Indonesia
 
 ## Tentang Saya
 
-- Saat ini bekerja di **NexoraTech**
 - Berpengalaman dalam pengujian aplikasi web, mulai dari analisis kebutuhan hingga pelaporan hasil
 - Sedang mendalami automation testing dan API testing
 - Memahami proses pengembangan dari sisi developer (Laravel, PHP, JavaScript, MySQL)
