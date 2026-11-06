@@ -1,8 +1,18 @@
-# Ryan Adi Saputra
+<div align="center">
 
-**Software Quality Assurance (SQA) Engineer** · Jember, Indonesia
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:1f2a37&height=140&section=header&text=Ryan%20Adi%20Saputra&fontColor=f0f6fc&fontSize=44&fontAlignY=50&animation=fadeIn" alt="Ryan Adi Saputra" width="100%" />
 
-Saya memastikan perangkat lunak berjalan sesuai kebutuhan sebelum sampai ke pengguna. Fokus saya pada perancangan skenario pengujian, pelaporan bug yang jelas, dan pengujian yang terstruktur untuk menjaga kualitas produk. Latar belakang pengembangan web dengan Laravel membantu saya memahami sistem dari sisi teknis.
+**SOFTWARE QUALITY ASSURANCE ENGINEER**
+
+*Kualitas bukan sekadar menemukan bug, tetapi memastikan setiap fitur layak dipercaya.*
+
+Manual Testing &nbsp;·&nbsp; API Testing &nbsp;·&nbsp; Test Automation
+
+[LinkedIn](https://www.linkedin.com/in/ryan-adi-saputra-077688226) &nbsp;·&nbsp; [Portofolio](#) &nbsp;·&nbsp; [Email](mailto:tambahkan-email-profesional@domain.com)
+
+Jember, Indonesia
+
+</div>
 
 ---
 
