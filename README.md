@@ -26,29 +26,6 @@ Jember, Indonesia
 
 ---
 
-## Keahlian
-
-| Bidang | Detail |
-|--------|--------|
-| Manual Testing | Functional, regression, UAT, exploratory testing |
-| Test Documentation | Test plan, test case, test scenario, bug report |
-| API Testing | Postman |
-| Automation Testing | Selenium / Cypress (sesuaikan dengan yang kamu kuasai) |
-| Bug Tracking | Jira / Trello (sesuaikan dengan yang kamu gunakan) |
-| Technical Background | Laravel, PHP, JavaScript, MySQL, Docker, Git |
-
----
-
-## Proyek Pilihan
-
-| Proyek | Deskripsi | Fokus |
-|--------|-----------|-------|
-| [DreamlandSR](https://github.com/DreamlandSR/DreamlandSR) | Aplikasi web portofolio pribadi dengan sistem autentikasi dan manajemen portofolio | Pengembangan, Laravel, Docker |
-| [WebDkost](https://github.com/DreamlandSR/WebDkost) | Tuliskan deskripsi singkat proyek ini | Web, HTML, CSS |
-| Test Case & Bug Report | Tambahkan repo berisi contoh dokumentasi pengujian | Testing |
-
----
-
 ## Statistik GitHub
 
 <p>
@@ -61,5 +38,4 @@ Jember, Indonesia
 ## Kontak
 
 - LinkedIn: [Ryan Adi Saputra](https://www.linkedin.com/in/ryan-adi-saputra-077688226)
-- Portofolio: [Tambahkan link website portofolio](#)
-- Email: tambahkan-email-profesional@domain.com
+- Email: nexoratechvii@gmail.com
