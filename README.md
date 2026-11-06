@@ -1,31 +1,55 @@
-# 🌙 DreamlandSR
+# Ryan Adi Saputra
 
-<p align="center"> <b>Modern Personal Web Application</b><br> <i>Showcasing identity, skills, and passion through clean & elegant design.</i> </p>
+**Software Quality Assurance (SQA) Engineer** · Jember, Indonesia
 
----
-
-## 🚀 About Project
-
-DreamlandSR adalah aplikasi web modern yang dirancang sebagai media untuk menampilkan deskripsi diri, pengalaman, keterampilan, serta portofolio secara profesional dalam satu platform terintegrasi.
-Project ini dibangun dengan pendekatan clean architecture dan modular development untuk memastikan performa, maintainability, dan scalability tetap optimal.
-[Portofolio](https://drive.google.com/drive/u/0/folders/1Qx-mkwrB1MZpfs4V4Uxjb3VJmPCXdQLn)
+Saya memastikan perangkat lunak berjalan sesuai kebutuhan sebelum sampai ke pengguna. Fokus saya pada perancangan skenario pengujian, pelaporan bug yang jelas, dan pengujian yang terstruktur untuk menjaga kualitas produk. Latar belakang pengembangan web dengan Laravel membantu saya memahami sistem dari sisi teknis.
 
 ---
 
-✨ Features
+## Tentang Saya
 
-🔐 Authentication System
-🧑‍💼 Personal Profile Showcase
-📂 Portfolio Management
-📱 Responsive Design
-⚡ Fast Development Setup (Vite + Docker Ready)
+- Saat ini bekerja di **NexoraTech**
+- Berpengalaman dalam pengujian aplikasi web, mulai dari analisis kebutuhan hingga pelaporan hasil
+- Sedang mendalami automation testing dan API testing
+- Memahami proses pengembangan dari sisi developer (Laravel, PHP, JavaScript, MySQL)
+- Terbuka untuk kolaborasi dan peluang di bidang Quality Assurance
 
 ---
 
-## 🛠 Tech Stack
+## Keahlian
 
-<p align="center"> <img src="https://skillicons.dev/icons?i=laravel,php,js,docker,mysql" /> </p>
-Backend : Laravel
-Frontend : JavaScript
-Database : MySQL
-Containerization : Docker
+| Bidang | Detail |
+|--------|--------|
+| Manual Testing | Functional, regression, UAT, exploratory testing |
+| Test Documentation | Test plan, test case, test scenario, bug report |
+| API Testing | Postman |
+| Automation Testing | Selenium / Cypress (sesuaikan dengan yang kamu kuasai) |
+| Bug Tracking | Jira / Trello (sesuaikan dengan yang kamu gunakan) |
+| Technical Background | Laravel, PHP, JavaScript, MySQL, Docker, Git |
+
+---
+
+## Proyek Pilihan
+
+| Proyek | Deskripsi | Fokus |
+|--------|-----------|-------|
+| [DreamlandSR](https://github.com/DreamlandSR/DreamlandSR) | Aplikasi web portofolio pribadi dengan sistem autentikasi dan manajemen portofolio | Pengembangan, Laravel, Docker |
+| [WebDkost](https://github.com/DreamlandSR/WebDkost) | Tuliskan deskripsi singkat proyek ini | Web, HTML, CSS |
+| Test Case & Bug Report | Tambahkan repo berisi contoh dokumentasi pengujian | Testing |
+
+---
+
+## Statistik GitHub
+
+<p>
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=DreamlandSR&show_icons=false&theme=dark&hide_border=true&bg_color=0d1117" alt="GitHub Stats" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DreamlandSR&layout=compact&theme=dark&hide_border=true&bg_color=0d1117" alt="Top Languages" />
+</p>
+
+---
+
+## Kontak
+
+- LinkedIn: [Ryan Adi Saputra](https://www.linkedin.com/in/ryan-adi-saputra-077688226)
+- Portofolio: [Tambahkan link website portofolio](#)
+- Email: tambahkan-email-profesional@domain.com
